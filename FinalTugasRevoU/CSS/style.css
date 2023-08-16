@@ -1,0 +1,26 @@
+/* Mengatur tulisan welcome to katik agar ketengah */
+.hai{
+    text-align: center;
+}
+/* Mengatur tulisan Sebuah web Apps sederhana agar ketengah */
+.lead{
+    text-align: center;
+}
+
+/* Mengatur background color pada id rumus */
+#rumus{
+    background-color: #e2edff;
+}
+
+/* Mengatur tulisan pada bagian footer */
+.footer {
+    border-top: 3px solid white; 
+    text-align: center;
+    margin-top: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: auto;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
